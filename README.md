@@ -22,8 +22,8 @@ SetRowReadColDynPad : Transpose matrix using dynamic shared memory, rowmajor ord
 5. The performance of each implementation is compared based on their execution times.
 
 ## Program:
-Developed By:  Thrikeswar P
-Reg.No:   212222230162
+Developed By:  PRAVEEN D
+Reg.No:   212222240076
   
 
 #include "common.h"
